@@ -51,17 +51,14 @@ CATALOGO = {
     ],
     "Ropa y Tenis": [
         {
-            "id": "tenis_1",
-            "tag": "Materiales reciclados",
-            "title": "Nike Air Max Muse",
-            "subtitle": "Tenis para mujer",
-            "price": "$3,299.00 MXN",
-            "precio_anterior": "$3,800.00 MXN",
-            "calificacion": "⭐⭐⭐⭐⭐ (89)",
-            "descripcion": "Diseño futurista inspirado en la era Y2K. Cuenta con la clásica amortiguación Air Max que brinda comodidad absoluta.",
-            "imagen": "https://placehold.co/600x600/f6f6f6/888888?text=Air+Max+1", # Reemplazar por tu imagen ej: "tenis1.jpg"
+            "id": "catalogo_1",
+            "tag": "Lo mas vendido",
+            "title": "Importados",
+            "subtitle": "Para adquierir precios añade a la bolsa y te redigira a nuestro chat",
+            "descripcion": "Tenis deportivos, casuales para el uso diario ",
+            "imagen": "https://images.priceshoes.digital/catalogos/1345245_0.jpg", # Reemplazar por tu imagen ej: "tenis1.jpg"
             "galeria": [
-                "https://placehold.co/600x600/f6f6f6/888888?text=Air+Max+1"
+                
             ]
         }
     ],
