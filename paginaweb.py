@@ -37,7 +37,7 @@ CATALOGO = {
             "tag": "Lo más vendido",
             "title": "Labial Líquido Mate Indeleble Forever",
             "subtitle": "Labial líquido de larga duración con Vitamina B5",
-            "price": "$450.00 MXN",
+            "price": "$452.00 MXN",
             "precio_anterior": "$600.00 MXN",
             "calificacion": "⭐⭐⭐⭐⭐",
             "descripcion": "Labial líquido Mate Indeleble con Vitamina B5 7 g e. 24 oz. (1.86 x 1.86 x 10.50 cm)",
