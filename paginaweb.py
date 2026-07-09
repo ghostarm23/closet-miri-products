@@ -81,7 +81,7 @@ CATALOGO = {
                 "https://belcorpmexico.vtexassets.com/arquivos/ids/1157845-1600-auto?v=639175215756930000&width=1600&height=auto&aspect=true",
                 "https://belcorpmexico.vtexassets.com/arquivos/ids/1157846-1600-auto?v=639175215757900000&width=1600&height=auto&aspect=true"
             ]
-        },
+        }
         {
             "id": "perf_1",
             "tag": "Top Sellers",
