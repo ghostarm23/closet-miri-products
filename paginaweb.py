@@ -81,6 +81,22 @@ CATALOGO = {
                 "https://belcorpmexico.vtexassets.com/arquivos/ids/1157845-1600-auto?v=639175215756930000&width=1600&height=auto&aspect=true",
                 "https://belcorpmexico.vtexassets.com/arquivos/ids/1157846-1600-auto?v=639175215757900000&width=1600&height=auto&aspect=true"
             ]
+        },
+        {
+            "id": "perf_1",
+            "tag": "Top Sellers",
+            "title": "Bleu Night Perfume para Hombre 100 ml.",
+            "subtitle": "Perfume de alta concentración",
+            "price": "$663.00 MXN",
+            "precio_anterior": "$780.00 MXN",
+            "calificacion": "⭐⭐⭐⭐⭐",
+            "descripcion": "Perfume fresco para hombre de muy alta concentración de la familia olfativa herbal maderoso. Notas intensas que perduran todo el día.",
+            "imagen": "https://belcorpmexico.vtexassets.com/arquivos/ids/1157847-500-auto?v=639175215758830000&width=500&height=auto&aspect=true", # Reemplazar por tu imagen ej: "bleunight.jpg"
+            "galeria": [
+                "https://belcorpmexico.vtexassets.com/arquivos/ids/1157844-1600-auto?v=639175215755400000&width=1600&height=auto&aspect=true",
+                "https://belcorpmexico.vtexassets.com/arquivos/ids/1157845-1600-auto?v=639175215756930000&width=1600&height=auto&aspect=true",
+                "https://belcorpmexico.vtexassets.com/arquivos/ids/1157846-1600-auto?v=639175215757900000&width=1600&height=auto&aspect=true"
+            ]
         }
     ]
 }
