@@ -83,11 +83,11 @@ CATALOGO = {
             ]
         },
         {
-            "id": "perf_1",
+            "id": "perf_2",
             "tag": "Top Sellers",
             "title": "Bleu Night Perfume para Hombre 100 ml.",
             "subtitle": "Perfume de alta concentración",
-            "price": "$663.00 MXN",
+            "price": "$660.00 MXN",
             "precio_anterior": "$780.00 MXN",
             "calificacion": "⭐⭐⭐⭐⭐",
             "descripcion": "Perfume fresco para hombre de muy alta concentración de la familia olfativa herbal maderoso. Notas intensas que perduran todo el día.",
